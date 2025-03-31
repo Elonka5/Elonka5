@@ -77,7 +77,7 @@ I am a **Front-End Developer**, trained in the ways of the Force (and JavaScript
     </td>
     <td align="center"  width="88">
         <img src="./images/react_router.webp" alt="React Router" width="57" height="57"/>
-      <br>React Router
+      <br>Router
     </td>
     <td align="center" width="88">
         <img src="./images/redux.webp" alt="Redux" width="57" height="57"/>
