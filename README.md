@@ -30,82 +30,83 @@ I am a **Front-End Developer**, trained in the ways of the Force (and JavaScript
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-  <td align="center"  width="122">
-         <img src="./images/js.webp" alt="JS" width="66" height="66"/>
+     <td align="center"  width="88">
+         <img src="./images/js.webp" alt="JavaScript" width="57" height="57"/>
       <br>JavaScript
     </td>
-        <td align="center" width="122">
-        <img src="./images/ts.webp" alt="TS" width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/ts.webp" alt="TypeScript" width="57" height="57"/>
       <br>TypeScript
     </td>
-     <td align="center"  width="122">
-         <img src="./images/html.webp" alt="HTML5" width="66" height="66"/>
+<td align="center" width="88">
+         <img src="./images/html.webp" alt="HTML5" width="57" height="57"/>
       <br>HTML5
     </td>
-    <td align="center" width="122">
-        <img src="./images/css.webp" alt="CSS3"  width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/css.webp" alt="CSS3" width="57" height="57"/>
       <br>CSS3
     </td>
-        <td align="center" width="122">
-        <img src="./images/react.webp" alt="React"  width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/react.webp" alt="React" width="57" height="57"/>
       <br>React.js
     </td>
-     <td align="center" width="122">
-        <img src="./images/next.webp" alt="Next.js" width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/next.webp" alt="Next.js" width="57" height="57"/>
       <br>Next.js
     </td>
-        <td align="center" width="122">
-      <img src="./images/node.webp" alt="Node.js" width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/node.webp" alt="Node.js" width="57" height="57"/>
       <br>Node.js
     </td>
-        <td align="center" width="122"> 
-        <img src="./images/firebase.webp" alt="Firebase" width="66" height="66"/>
+    <td align="center" width="88">
+      <img src="./images/firebase.webp" alt="Firebase" width="57" height="57"/>
       <br>Firebase
     </td>
- <td align="center" width="122">
-        <img src="./images/tailwind.webp" alt="Tailwind" width="66" height="66"/>
+        <td align="center" width="88">
+       <img src="./images/tailwind.webp" alt="Tailwind" width="57" height="57"/>
       <br>Tailwind
-    </td>
-<td align="center" width="122">
-       <img src="./images/mui.webp" alt="MUI" width="66" height="66"/>
-      <br>MUI
       </td>
   </tr>
-    <td align="center" width="122">
-        <img src="./images/scss.webp" alt="Sass" width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/scss.webp" alt="Sass" width="57" height="57"/>
       <br>Sass
     </td>
-    <td align="center"  width="122">
-        <img src="./images/react_router.webp" alt="React Router" width="66" height="66"/>
+    <td align="center" width="88"> 
+        <img src="./images/mui.webp" alt="MUI" width="57" height="57"/>
+      <br>MUI
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/react_router.webp" alt="React Router" width="57" height="57"/>
       <br>React Router
     </td>
-    <td align="center" width="122">
-        <img src="./images/redux.webp" alt="Redux" width="66" height="66"/>
+    <td align="center" width="88">
+        <img src="./images/redux.webp" alt="Redux" width="57" height="57"/>
       <br>Redux
     </td>
-      <td align="center" width="122">
-        <img src="./images/postman.webp" alt="Postman" width="66" height="66"/>
+      <td align="center" width="88">
+        <img src="./images/postman.webp" alt="Postman" width="57" height="57"/>
       <br>Postman
     </td>
       </td>
-      <td align="center" width="122">
-        <img src="./images/axios.webp" alt="Axios" width="66" height="66"/>
+      <td align="center" width="88">
+        <img src="./images/axios.webp" alt="Axios" width="57" height="57"/>
       <br>Axios
      </td>
-     <td align="center" width="122">
-        <img src="./images/git.webp" alt="Git" width="66" height="66"/>
+     <td align="center" width="88">
+        <img src="./images/git.webp" alt="Git" width="57" height="57"/>
       <br>Git
     </td>
-  <td align="center" width="122">
-        <img src="./images/github.webp" alt="GitHub" width="66" height="66"/>
+  <td align="center" width="88">
+        <img src="./images/github.webp" alt="GitHub" width="57" height="57"/>
       <br>GitHub
      </td>
-  <td align="center" width="122">
-        <img src="./images/figma.webp" alt="Figma" width="66" height="66"/>
+  <td align="center" width="88">
+        <img src="./images/figma.webp" alt="Figma" width="57" height="57"/>
       <br>Figma
      </td>
 </table>
 </div>
+
 
 ## 🚀 My Galactic Projects
 
